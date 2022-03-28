@@ -179,6 +179,6 @@ class MainKtTest {
             cardType = cardType
         )
 
-        assertFalse(result)
+        assertTrue(result)
     }
 }
